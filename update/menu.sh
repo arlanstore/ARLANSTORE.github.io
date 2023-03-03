@@ -43,7 +43,7 @@ echo -e "${CYAN}━━━━━━━━━━━━━━━━━━━━━�
 echo -e "  $blu✘$ORANGE  ISP        $NC :\e[0m$bd $ISP"
 echo -e "  $blu✘$ORANGE  City    $NC    :\e[0m$bd $CITY"
 echo -e "  $blu✘$ORANGE  Public IP  $NC : $MYIP"
-echo -e "  $blu✘$ORANGE  Domain  $NC    : $domen"
+echo -e "  $blu✘$ORANGE  Domain  $NC    : $Domain"
 echo -e "  $blu✘$ORANGE  Total RAM $NC  : ${totalram}MB"
 echo -e "  $blu✘$ORANGE  Time$NC        : $( date -d "0 days" +"%d-%m-%Y | %X" )"
 echo -e "  $blu✘$ORANGE  Version  $NC   : Singgel Port"
